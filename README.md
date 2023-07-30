@@ -13,6 +13,8 @@ Networked-Aframe
 
 A framework for writing multi-user VR apps in HTML and JS.
 
+**Sense Collective Design Playground**
+Jonny Dubowsky has been working with Sense Collective to design a series of building blocks for XR designers to expand their toolkit to include Web3, blockchain, and decentralized identity protocols.
 Built on top of [A-Frame](https://aframe.io/).
 
 <div>
